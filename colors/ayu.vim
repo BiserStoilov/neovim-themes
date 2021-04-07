@@ -50,12 +50,12 @@ let s:palette.function  = {'dark': "#ea6962",  'light': "#ea6962",  'mirage': "#
 let s:palette.special   = {'dark': "#7daea3",  'light': "#7daea3",  'mirage': "#7daea3"}
 let s:palette.keyword   = {'dark': "#E6B673",  'light': "#E6B673",  'mirage': "#E6B673"}
 
-let s:palette.error     = {'dark': "#F2594B",  'light': "#F2594B",  'mirage': "#F2594B"}
+let s:palette.error     = {'dark': "#242424",  'light': "#F2594B",  'mirage': "#F2594B"}
 let s:palette.accent    = {'dark': "#E78A4E",  'light': "#E78A4E",  'mirage': "#E78A4E"}
 let s:palette.panel     = {'dark': "#32302F",  'light': "#32302F",  'mirage': "#32302F"}
-let s:palette.guide     = {'dark': "#5A524C",  'light': "#5A524C",  'mirage': "#5A524C"}
-let s:palette.line      = {'dark': "#32302F",  'light': "#32302F",  'mirage': "#32302F"}
-let s:palette.selection = {'dark': "#504945",  'light': "#504945",  'mirage': "#504945"}
+let s:palette.guide     = {'dark': "#504945",  'light': "#5A524C",  'mirage': "#5A524C"}
+let s:palette.line      = {'dark': "#242424",  'light': "#32302F",  'mirage': "#32302F"}
+let s:palette.selection = {'dark': "#242424",  'light': "#504945",  'mirage': "#504945"}
 let s:palette.fg        = {'dark': "#D4BE98",  'light': "#D4BE98",  'mirage': "#D4BE98"}
 let s:palette.fg_idle   = {'dark': "#D5C4A1",  'light': "#D5C4A1",  'mirage': "#D5C4A1"}
 
