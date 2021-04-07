@@ -107,7 +107,7 @@ let s:gb.light3      = ['#bdae93', 248]     " 189-174-147
 let s:gb.light4      = ['#a89984', 246]     " 168-153-132
 let s:gb.light4_256  = ['#a89984', 246]     " 168-153-132
 
-let s:gb.bright_red     = ['#e74c3c', 167]     " 251-73-52
+let s:gb.bright_red     = ['#f2594b', 167]     " 251-73-52
 let s:gb.bright_green   = ['#a9b665', 142]     " 184-187-38
 let s:gb.bright_yellow  = ['#ffb964', 214]     " 250-189-47
 let s:gb.bright_blue    = ['#00839F', 109]     " 131-165-152
@@ -115,7 +115,7 @@ let s:gb.bright_purple  = ['#7daea3', 175]     " 211-134-155
 let s:gb.bright_aqua    = ['#5e8d60', 108]     " 142-192-124
 let s:gb.bright_orange  = ['#e78a4e', 208]     " 254-128-25
 
-let s:gb.neutral_red    = ['#e74c3c', 124]     " 204-36-29
+let s:gb.neutral_red    = ['#f2594b', 124]     " 204-36-29
 let s:gb.neutral_green  = ['#a9b665', 106]     " 152-151-26
 let s:gb.neutral_yellow = ['#ffb964', 172]     " 215-153-33
 let s:gb.neutral_blue   = ['#00839F', 66]      " 69-133-136
@@ -123,7 +123,7 @@ let s:gb.neutral_purple = ['#7daea3', 132]     " 177-98-134
 let s:gb.neutral_aqua   = ['#5e8d60', 72]      " 104-157-106
 let s:gb.neutral_orange = ['#e78a4e', 166]     " 214-93-14
 
-let s:gb.faded_red      = ['#e74c3c', 88]      " 157-0-6
+let s:gb.faded_red      = ['#f2594b', 88]      " 157-0-6
 let s:gb.faded_green    = ['#a9b665', 100]     " 121-116-14
 let s:gb.faded_yellow   = ['#ffb964', 136]     " 181-118-20
 let s:gb.faded_blue     = ['#00839F', 24]      " 7-102-120
