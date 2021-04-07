@@ -725,12 +725,12 @@ endif
 if !exists('g:rbpt_colorpairs')
   let g:rbpt_colorpairs =
     \ [
-      \ ['blue', '#458588'], ['magenta', '#b16286'],
-      \ ['red',  '#cc241d'], ['166',     '#d65d0e']
+      \ ['blue', '#458588'], ['magenta', '#00839F'],
+      \ ['red',  '#e74c3c'], ['166',     '#d79921']
     \ ]
 endif
 
-let g:rainbow_guifgs = [ '#d65d0e', '#cc241d', '#b16286', '#458588' ]
+let g:rainbow_guifgs = [ '#d79921', '#e74c3c', '#00839F', '#458588' ]
 let g:rainbow_ctermfgs = [ '166', 'red', 'magenta', 'blue' ]
 
 if !exists('g:rainbow_conf')
