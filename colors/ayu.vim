@@ -54,8 +54,8 @@ let s:palette.error     = {'dark': "#ea6962",  'light': "#F2594B",  'mirage': "#
 let s:palette.accent    = {'dark': "#E78A4E",  'light': "#E78A4E",  'mirage': "#E78A4E"}
 let s:palette.panel     = {'dark': "#32302F",  'light': "#32302F",  'mirage': "#32302F"}
 let s:palette.guide     = {'dark': "#504945",  'light': "#5A524C",  'mirage': "#5A524C"}
-let s:palette.line      = {'dark': "#242424",  'light': "#32302F",  'mirage': "#32302F"}
-let s:palette.selection = {'dark': "#242424",  'light': "#504945",  'mirage': "#504945"}
+let s:palette.line      = {'dark': "#222222",  'light': "#32302F",  'mirage': "#32302F"}
+let s:palette.selection = {'dark': "#202020",  'light': "#504945",  'mirage': "#504945"}
 let s:palette.fg        = {'dark': "#D5C4A1",  'light': "#D4BE98",  'mirage': "#D4BE98"}
 let s:palette.fg_idle   = {'dark': "#E6B673",  'light': "#D5C4A1",  'mirage': "#D5C4A1"}
 
