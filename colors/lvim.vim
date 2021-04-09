@@ -189,8 +189,12 @@ exe "hi! qfLineNr"        .s:fg_keyword   .s:bg_none        .s:fmt_none
 "   qfLineNr"
 "   qfError"
 
-exe "hi! Conceal"         .s:fg_guide     .s:bg_none        .s:fmt_none
-exe "hi! CursorLineConceal" .s:fg_guide   .s:bg_line        .s:fmt_none
+exe "hi! Conceal"           .s:fg_guide     .s:bg_none        .s:fmt_none
+exe "hi! CursorLineConceal" .s:fg_guide     .s:bg_line        .s:fmt_none
+
+" fix NvimTree colors
+exe "hi! NvimTreeFolderIcon"  .s:fg_fg  .s:bg_none        .s:fmt_none
+exe "hi! IndentMarker"        .s:fg_fg  .s:bg_none        .s:fmt_none
 
 
 " Terminal
